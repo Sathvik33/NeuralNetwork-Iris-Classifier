@@ -29,8 +29,11 @@ Training the Model
 If you want to retrain the model:
 
 bash
-Copy code
+
+
 python train_model.py
+
+
 This script will:
 
 Load the Iris dataset
